@@ -1,0 +1,12 @@
+C:\Users\080808\source\repos\veritabanip\veritabanip\bin\Debug\veritabanip.exe.config
+C:\Users\080808\source\repos\veritabanip\veritabanip\bin\Debug\veritabanip.exe
+C:\Users\080808\source\repos\veritabanip\veritabanip\bin\Debug\veritabanip.pdb
+C:\Users\080808\source\repos\veritabanip\veritabanip\obj\Debug\veritabanip.csproj.AssemblyReference.cache
+C:\Users\080808\source\repos\veritabanip\veritabanip\obj\Debug\veritabanip.csproj.SuggestedBindingRedirects.cache
+C:\Users\080808\source\repos\veritabanip\veritabanip\obj\Debug\veritabanip.Form1.resources
+C:\Users\080808\source\repos\veritabanip\veritabanip\obj\Debug\veritabanip.Properties.Resources.resources
+C:\Users\080808\source\repos\veritabanip\veritabanip\obj\Debug\veritabanip.csproj.GenerateResource.cache
+C:\Users\080808\source\repos\veritabanip\veritabanip\obj\Debug\veritabanip.csproj.CoreCompileInputs.cache
+C:\Users\080808\source\repos\veritabanip\veritabanip\obj\Debug\veritabanip.exe
+C:\Users\080808\source\repos\veritabanip\veritabanip\obj\Debug\veritabanip.pdb
+C:\Users\080808\source\repos\veritabanip\veritabanip\obj\Debug\veritabanip.parola.resources
